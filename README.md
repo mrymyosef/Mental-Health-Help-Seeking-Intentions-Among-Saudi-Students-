@@ -1,0 +1,5 @@
+•	Purpose: To examine the influence of acculturation, stigma tolerance, expertness, and self-efficacy on Saudi students’ intentions to seek mental health support, considering the moderating effects of COVID-19, anxiety, and depression.
+•	Tools Used: SPSS (for descriptive analysis, Spearman correlation, Mann–Whitney, Kruskal–Wallis, and multiple linear regression).
+•	Main Tasks: Conducted survey-based analysis on 196 participants; evaluated demographic factors; performed correlation and regression modeling to identify predictors of mental health help-seeking; and assessed the impact of COVID-19 and psychological factors.
+•	Results & Impact: Found that expertness, host culture adaptation, and gender significantly predicted help-seeking intentions, while depression and anxiety negatively influenced them. The findings highlight the need for culturally sensitive mental health interventions and awareness programs for international students.
+<img width="468" height="217" alt="image" src="https://github.com/user-attachments/assets/b14d0ece-4ee1-4d90-af67-0d26f1902e44" />
